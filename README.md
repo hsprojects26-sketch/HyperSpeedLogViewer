@@ -18,5 +18,6 @@ Download the latest release here.
 
 https://github.com/hsprojects26-sketch/HyperSpeedLogViewer/releases
 
-<img width="1526" height="875" alt="image" src="https://github.com/user-attachments/assets/c11c142c-2409-472d-84cc-6902e86c9bbd" />
+<img width="1538" height="896" alt="image" src="https://github.com/user-attachments/assets/56541030-1265-427e-869b-64ee58b09ca7" />
+
 <img width="1529" height="897" alt="image" src="https://github.com/user-attachments/assets/cb556458-01ef-4fff-ba77-8f4abbf5c152" />
