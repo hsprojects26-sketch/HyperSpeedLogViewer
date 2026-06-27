@@ -27,14 +27,33 @@ HyperSpeed LogViewer Pro (HSLV) — License & Third-Party Notices
 
 /*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*/
 License of this project / 本プロジェクト自体のライセンス
-本プログラムは無償提供になります。
-このプログラムを使用したことによる発生した問題などには一切の責任はありません。
-自己責任でご使用お願いします。
-なにか不具合等を確認した場合はご連絡いただければと思います。
-This program is for free use.
-I dont have any responsibility for use.
-Please use at your own risk.
-If you notie some problem in this program, please comment.
+Copyright (c) 2026 HSProjects26
+
+HyperSpeedLogViewerは、個人利用および商用利用を問わず、無償で提供されます。
+以下のことが可能です：
+* 本ソフトウェアを無償でダウンロードし、使用すること。
+* 改変されていないオリジナルのリリースパッケージを配布（共有）すること。
+
+以下のことは禁止されています：
+* 本ソフトウェアの改変、リバースエンジニアリング、または改変版の再配布。
+* 本ソフトウェアの販売またはサブライセンス（再許諾）。
+* 本ソフトウェアの著作権者であると主張すること。
+
+本ソフトウェアは「現状有姿」で提供され、明示的か黙示的かを問わず、いかなる種類の保証も伴いません。本ソフトウェアの使用に起因するいかなる損害についても、著者は一切の責任を負いません。
+
+HyperSpeedLogViewer is provided free of charge for personal and commercial use.
+
+You may:
+* Download and use the software free of charge.
+* Share the original, unmodified release package.
+
+You may not:
+* Modify, reverse engineer, or redistribute modified versions of the software.
+* Sell or sublicense the software.
+* Claim authorship of the software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. THE AUTHOR SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF THIS SOFTWARE.
+
 /*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*/
 
 /****************************************************************************************/
@@ -54,8 +73,8 @@ Tkinter / Tcl-Tk	Tcl/Tk License (BSD-style)
 numpy	BSD 3-Clause
 tkinterdnd2	MIT
 chardet (v7.x, bundled)	MIT
-/****************************************************************************************/
 
 The same information is also shown inside the app itself, under
 Help → About.
 同内容はアプリ内 Help → About（このアプリについて）にも表示されます。
+/****************************************************************************************/
