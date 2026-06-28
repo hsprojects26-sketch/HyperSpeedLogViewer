@@ -15,9 +15,7 @@ HyperSpeedLogViewer
     • リバース（新しい順）表示モード
     • ダーク/ライトテーマ・フォント・色のカスタマイズ
 
-いくつかのウィルス対策ソフトがウィルスの検出報告しますが、ウィルスの感染はありません。
-ベースにPythonを使用しているため誤検出されやすくなっております。
-McAfeeにてウィルスがいないことをアップロード前に確認をしております。
+PyInstallerパッケージングのため、一部のウイルス対策ソフトはこのアプリケーションを誤検出する可能性があります。
 
 ファイルのダウンロードは下記となります。よろしければ使用感のコメントをいただければと思います。
 https://github.com/hsprojects26-sketch/HyperSpeedLogViewer/releases
@@ -25,18 +23,18 @@ https://github.com/hsprojects26-sketch/HyperSpeedLogViewer/releases
 HyperSpeedLogViewer
 A lightweight Windows application for viewing huge log files.
 
-Main futures:
+Main features:
     • Multi/Split Tab
-    • Real time file updating(Tale Mode)
-    • multipul Keyword filter（INC / EXC / REQ / RNG）
-    • And serch & Regex
+    • Real time file updating(Tail Mode)
+    • multiple Keyword filter（INC / EXC / REQ / RNG）
+    • And search & Regex
     • Minimap for Keyword
     • Bookmark（Sidebar list & Export）
     • TimeStamp Difference & Time Jump
     • Reverse mode
-    • Customize Thame(Dark/Light/Font/color)
+    • Customize Theme(Dark/Light/Font/color)
    
-Some antivirus engines may report a false positive because this application is packaged from Python and is not digitally signed. The source code is available on GitHub for inspection.
+Some antivirus engines may report a false positive because this application is packaged from Python and is not digitally signed.
 
 Download the latest release here.
 
