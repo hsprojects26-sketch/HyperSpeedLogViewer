@@ -1,17 +1,41 @@
-大容量ログファイルを超高速？で解析できる多機能Windowsツールです。This is a multi-functional Windows tool capable of analyzing large-volume log files at ultra-high speed.　
-#logviewer #Hyper #speed #Viewer #windows #analysis
+大容量ログファイルを超高速？で解析できる多機能Windowsツールです。
+This is a multi-functional Windows tool capable of analyzing large-volume log files at ultra-high speed.　
+
+HyperSpeedLogViewer
+軽量Windowsアプリケーション（GB級ファイル対応）
+
+主な機能:
+    • マルチタブ + 左右スプリット表示
+    • リアルタイムファイル監視（テールモード）
+    • 複数キーワードフィルタ（INC / EXC / REQ / RNG）
+    • AND検索（Word1+Word2）& 正規表現対応
+    • キーワード色合成対応のズームミニマップ
+    • ブックマーク（サイドバー一覧・エクスポート）
+    • タイムスタンプ差分表示 & 二分探索時刻ジャンプ
+    • リバース（新しい順）表示モード
+    • ダーク/ライトテーマ・フォント・色のカスタマイズ
+
+いくつかのウィルス対策ソフトがウィルスの検出報告しますが、ウィルスの感染はありません。
+ベースにPythonを使用しているため誤検出されやすくなっております。
+McAfeeにてウィルスがいないことをアップロード前に確認をしております。
+
+ファイルのダウンロードは下記となります。よろしければ使用感のコメントをいただければと思います。
+https://github.com/hsprojects26-sketch/HyperSpeedLogViewer/releases
 
 HyperSpeedLogViewer
 A lightweight Windows application for viewing huge log files.
 
-Features
-Ultra-fast loading
-Multi-GB log files
-Timestamp filtering
-Search
-Export
-Download
-
+Main futures:
+    • Multi/Split Tab
+    • Real time file updating(Tale Mode)
+    • multipul Keyword filter（INC / EXC / REQ / RNG）
+    • And serch & Regex
+    • Minimap for Keyword
+    • Bookmark（Sidebar list & Export）
+    • TimeStamp Difference & Time Jump
+    • Reverse mode
+    • Customize Thame(Dark/Light/Font/color)
+   
 Some antivirus engines may report a false positive because this application is packaged from Python and is not digitally signed. The source code is available on GitHub for inspection.
 
 Download the latest release here.
@@ -25,36 +49,18 @@ https://github.com/hsprojects26-sketch/HyperSpeedLogViewer/releases
 
 HyperSpeed LogViewer Pro (HSLV) — License & Third-Party Notices
 
+
 /*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*/
 License of this project / 本プロジェクト自体のライセンス
 Copyright (c) 2026 HSProjects26
 
 HyperSpeedLogViewerは、個人利用および商用利用を問わず、無償で提供されます。
-以下のことが可能です：
-* 本ソフトウェアを無償でダウンロードし、使用すること。
-* 改変されていないオリジナルのリリースパッケージを配布（共有）すること。
+詳細はライセンスについてのmdファイルでご確認ください。
 
-以下のことは禁止されています：
-* 本ソフトウェアの改変、リバースエンジニアリング、または改変版の再配布。
-* 本ソフトウェアの販売またはサブライセンス（再許諾）。
-* 本ソフトウェアの著作権者であると主張すること。
-
-本ソフトウェアは「現状有姿」で提供され、明示的か黙示的かを問わず、いかなる種類の保証も伴いません。本ソフトウェアの使用に起因するいかなる損害についても、著者は一切の責任を負いません。
-
-HyperSpeedLogViewer is provided free of charge for personal and commercial use.
-
-You may:
-* Download and use the software free of charge.
-* Share the original, unmodified release package.
-
-You may not:
-* Modify, reverse engineer, or redistribute modified versions of the software.
-* Sell or sublicense the software.
-* Claim authorship of the software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. THE AUTHOR SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF THIS SOFTWARE.
-
+HyperSpeedLogViewer is free soft.but responsibility is 'ASIS' & 'no responsibility'.
+see third-party license file.
 /*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*//*/*/
+
 
 /****************************************************************************************/
 Third-party components / 同梱している第三者コンポーネント
