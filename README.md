@@ -24,15 +24,16 @@ HyperSpeedLogViewer
 A lightweight Windows application for viewing huge log files.
 
 Main features:
-    • Multi/Split Tab
-    • Real time file updating(Tail Mode)
-    • multiple Keyword filter（INC / EXC / REQ / RNG）
-    • And search & Regex
-    • Minimap for Keyword
-    • Bookmark（Sidebar list & Export）
-    • TimeStamp Difference & Time Jump
-    • Reverse mode
-    • Customize Theme(Dark/Light/Font/color)
+
+• Multi-tab & split view (left/right)
+• Real-time file monitoring (tail mode)
+• Multiple keyword filters (INC / EXC / REQ / RNG)
+• AND search & regex support
+• Keyword-based minimap visualization
+• Bookmark system (sidebar list & export)
+• Timestamp difference & binary-search navigation
+• Reverse (newest-first) mode
+• Theme customization (dark / light / font / colors)
    
 Some antivirus engines may report a false positive because this application is packaged from Python and is not digitally signed.
 
