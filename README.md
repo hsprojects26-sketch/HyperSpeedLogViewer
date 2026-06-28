@@ -58,23 +58,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 /****************************************************************************************/
 Third-party components / 同梱している第三者コンポーネント
-The `.exe` release bundles Python and a few open-source libraries.
-Full details — including license text references, source links, and a
-note on chardet's license history — are in
-`THIRD_PARTY_LICENSES.md`.
-exe版には Python と複数のオープンソースライブラリが同梱されています。
-詳細（ライセンス全文への参照、ソース入手先、chardetのライセンス経緯に
-関する注記を含む）は `THIRD_PARTY_LICENSES.md`
-を参照してください。
-Quick summary:
-Component	License
-Python 3.x	PSF License
-Tkinter / Tcl-Tk	Tcl/Tk License (BSD-style)
-numpy	BSD 3-Clause
-tkinterdnd2	MIT
-chardet (v7.x, bundled)	MIT
 
-The same information is also shown inside the app itself, under
-Help → About.
+see third-party license file.
+and there is same contents in app about.
 同内容はアプリ内 Help → About（このアプリについて）にも表示されます。
 /****************************************************************************************/
